@@ -5,7 +5,7 @@ This add-on install the html wiki macro for eXo Platform that allows inserting H
 ## Installing
 
 ```
-$ ./addon install html-wiki-macro
+$ ./addon install exo-wiki-macro-html
 ```
 
 ## Security advice
