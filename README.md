@@ -8,7 +8,8 @@ This add-on install the html wiki macro for eXo Platform that allows inserting H
 $ ./addon install html-wiki-macro
 ```
 
-## Security Note:
+## Security advice
 
-This macro which when invoked allows injection of raw html and script and there is not no safe way to disable this when installed. 
-This attack method requires the attacker to have a registered username.
+**Install this add-on at your own risk and if you know what you are doing**.
+
+eXo Wiki HTML macro is not installed by default because it can make your eXo Platform instance vulnerable to cross-site scripting attacks (this attack method requires the attacker to have a an account on the instance). 
