@@ -28,13 +28,13 @@
   </parent>
   <groupId>org.exoplatform.addons.html-wiki-macro</groupId>
   <artifactId>html-wiki-macro</artifactId>
-  <version>1.0.x-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
   <description>eXo Wiki HTML Macro Addon</description>
   <scm>
     <connection>scm:git:git://github.com/exo-addons/html-wiki-macro.git</connection>
     <developerConnection>scm:git:git@github.com:exo-addons/html-wiki-macro.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>1.0.0</tag>
     <url>https://github.com/exo-addons/html-wiki-macro</url>
   </scm>
   <properties>
